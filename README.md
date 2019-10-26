@@ -11,6 +11,6 @@
 
 ## Examples: 
 ```C#
-GetNumberOfCharsInString(‘a’, “Xamarin Lab”) ➞ 3
-GetNumberOfCharsInString(‘A’, “AppsLab 2019”) ➞ 1
+GetNumberOfCharsInString('a', "Xamarin Lab") ➞ 3
+GetNumberOfCharsInString('A', "AppsLab 2019") ➞ 1
 ```
