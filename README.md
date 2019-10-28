@@ -1,7 +1,7 @@
 # Open-Lab-03.10
 (12 XP) A function that returns how many times a letter appears in the string.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Checker.cs`.
 4. Implement the method `GetNumberOfCharsInString(char letter, string str)` that returns how many times a letter appears in the string.
